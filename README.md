@@ -6,8 +6,8 @@ A React + TypeScript application that displays artworks from the Art Institute o
 
 ## 🚀 Live Demo
 
-Live URL: (add your deployed link here)  
-GitHub Repository: (this repository)
+Live URL: https://react-assignment-wq0.pages.dev  
+GitHub Repository: https://github.com/smttomar/React-Assignment
 
 ---
 
